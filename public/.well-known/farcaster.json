@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "AirdropFlow is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://edbce731-bbcc-42bd-a0c5-7c355d075b43.deployments.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app",
+    "splashImageUrl": "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app/image.png",
     "tagline": "AirdropFlow",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app/screenshot.png",
+      "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://edbce731-bbcc-42bd-a0c5-7c355d075b43.deployments.vistara.dev/api/webhook"
+    "webhookUrl": "https://effcb1982e7b4505ac9bf0040e78f8f3-jfin-93e8qf0ik-vistara.vercel.app/api/webhook"
   }
 }
