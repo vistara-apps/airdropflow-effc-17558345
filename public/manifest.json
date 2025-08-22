@@ -1,0 +1,14 @@
+{
+  "name": "AirdropFlow",
+  "description": "AirdropFlow is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://edbce731-bbcc-42bd-a0c5-7c355d075b43.deployments.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AirdropFlow",
+      "description": "AirdropFlow is a Base Mini App built with Zara.",
+      "url": "https://edbce731-bbcc-42bd-a0c5-7c355d075b43.deployments.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
